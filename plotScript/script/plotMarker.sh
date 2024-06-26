@@ -1,0 +1,1 @@
+Rscript plotMarker.R --seurat_object /project/scRNA/annotation/DYKR-202304-T071_Rat_20231017/cellLabelMainMapping/Integration.SeuratObject.rds --outdir test/test_plotMarker --marker /project/scRNA/annotation/DYKR-202304-T071_Rat_20231017/script/celltypeMarkerMain.xls --dotplot --vlnplot --dotplot --heatmap --split_celltype

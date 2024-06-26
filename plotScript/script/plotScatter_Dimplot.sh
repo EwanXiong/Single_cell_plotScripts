@@ -1,0 +1,1 @@
+Rscript /disk/pipeline/Script/scRNA/plotScript/plotScatter_Dimplot.R --seurat_object result/cellLabel/cellLabel/Integration.SeuratObject.rds --outdir /disk/pipeline/Script/scRNA/plotScript/test/plotScatter_Dimplot --splitby sample --onePic

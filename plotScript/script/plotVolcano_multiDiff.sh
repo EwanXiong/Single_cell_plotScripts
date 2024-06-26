@@ -1,0 +1,1 @@
+Rscript plotVolcano_multiDiff.R --outdir test/plotVolcano_multiDiff --prefix CDYKR01 --diff /home/disk/bioservice/demo_report/scRNA_10x/PRJNA635353/Different_Expression/Integration.group.G1_vs_G2.Group_DE.xls,/home/disk/bioservice/demo_report/scRNA_10x/PRJNA635353/Different_Expression/Integration.group.G2_vs_G1.Group_DE.xls --cluster G1_vs_G2,G2_vs_G1 
